@@ -103,5 +103,10 @@
     "originalUrl": "https://example.org",
     "shortUrl": "https://s.xmhddafa.xyz/thiskontol",
     "createdDate": "2025-07-06T13:35:15.377Z"
+  },
+  "xshortin": {
+    "originalUrl": "https://shortin-red.vercel.app",
+    "shortUrl": "https://s.xmhddafa.xyz/xshortin",
+    "createdDate": "2025-07-08T11:46:01.809Z"
   }
 }
